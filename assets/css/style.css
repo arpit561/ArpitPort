@@ -833,6 +833,9 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #149ddd;
 }
+.location{
+  font-weight: 100;
+}
 
 /*--------------------------------------------------------------
 # Contact
